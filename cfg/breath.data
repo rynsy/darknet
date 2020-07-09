@@ -1,0 +1,5 @@
+classes = 1
+train = cfg/breath-train.txt
+valid = cfg/breath-test.txt
+names = data/breath.names
+backup = backup
